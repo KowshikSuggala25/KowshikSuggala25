@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Kowshik Suggala </h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Full-Stack Developer</h3>
+<h3 align="center">🚀 Aspiring Software Engineer | Full-Stack Developer | AI Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kowshiksuggala25&label=Profile%20views&color=0e75b6&style=flat&abbrevated=true" alt="kowshiksuggala25" /> </p>
 
