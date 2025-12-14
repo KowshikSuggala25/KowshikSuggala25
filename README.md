@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kowshiksuggala25&label=Profile%20views&color=0e75b6&style=flat&abbrevated=true" alt="kowshiksuggala25" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Fullstack Projects<br>👯 I’m looking to collaborate on GenAI projects<br>🌱 I’m currently learning AI, Cloud Development<br>💬 Ask me about any queries via email kowshiksuggala@gmail.com<br>
+🔭 I’m currently working on Fullstack Projects, AI Agents<br>👯 I’m looking to collaborate on GenAI projects<br>🌱 I’m currently learning AI, Cloud Development<br>💬 Ask me about any queries via email suggalakowshik@gmail.com<br>
 
 
 ## 🌐 Socials:
