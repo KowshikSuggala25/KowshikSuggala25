@@ -2,9 +2,9 @@
 <h3 align="center">🚀 Aspiring Software Engineer | Full-Stack Developer | AI Engineer </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=charansuggala26&label=Profile%20views&color=0e75b6&style=flat" alt="charansuggala26" /> 
-  <a href="https://github.com/charansuggala26?tab=followers">
-    <img src="https://img.shields.io/github/followers/charansuggala26?label=Followers&style=social" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=KowshikSuggala25&label=Profile%20views&color=0e75b6&style=flat" alt="KowshikSuggala25" /> 
+  <a href="https://github.com/KowshikSuggala25?tab=followers">
+    <img src="https://img.shields.io/github/followers/KowshikSuggala25?label=Followers&style=social" alt="GitHub Followers">
   </a>
 </p>
 
