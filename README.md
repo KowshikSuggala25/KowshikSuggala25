@@ -25,7 +25,7 @@ I’m an enthusiastic developer and researcher with a strong focus on solving re
 |---------|-------------|
 | 🌐 Fullstack Chat App | Real-time chat app with media sharing and secure authentication |
 | 💊 Immunization Tracker | Smart vaccination tracker for children with scheduling, reminders, QR access |
-| 🤖 MediLens | AI-powered browser-based multimodal health assistant |
+| 🤖 MediLens AI Assistant| AI-powered browser-based multimodal health assistant |
 | 🌐 ROI MERN APP | MERN stack project that manages all the information about the stocks |
 | 🛡️ Breast Cancer Prediction | ML-based prediction solution for cancer recognition|
 | 🤖 Resume Awareness System | LLM based resume awareness education system |
