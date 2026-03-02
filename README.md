@@ -33,7 +33,7 @@ I’m an enthusiastic developer and researcher with a strong focus on solving re
 | 💰 Sustainabale Finance Manager | Track your daily expenses and discover your carbon footprint with smart tips |
 | 🌱 Individual Carbon Reduction | Track your sustainable habits and measure CO₂ savings during your daily habits |
 | 🩺 HealthPrep AI Assistant | It provides a seamless bridge between clinical requirements and patient understanding |
-| 🎓 Personalized Learning Assistant | Platform designed to help students generate practice questions and build customized 7-day study plans.|
+| 🎓 Personalized Exam Assistant | A Platform designed to help students generate practice questions and build customized 7-day study plans.|
 
 ### 🌐 Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://kowshiksuggala.vercel.app/)
