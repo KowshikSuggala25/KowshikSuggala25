@@ -34,8 +34,7 @@ I’m an enthusiastic developer and researcher with a strong focus on solving re
 | 🌱 Individual Carbon Reduction | Track your sustainable habits and measure CO₂ savings during your daily habits |
 | 🩺 HealthPrep AI Assistant | It provides a seamless bridge between clinical requirements and patient understanding |
 | 🎓 Personalized Exam Assistant | A Platform designed to help students generate practice questions and build customized 7-day study plans.|
-|  <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/f9609ad1-b92f-4da3-b0a8-b29f95ec9487" />
-Virtual Air Canvas | Air Canvas is an interactive computer vision application that enables users to draw in the air using hand gestures.|
+| 🤖 Virtual Air Canvas | Air Canvas is an interactive computer vision application that enables users to draw in the air using hand gestures.|
 
 ### 🌐 Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://kowshiksuggala.vercel.app/)
